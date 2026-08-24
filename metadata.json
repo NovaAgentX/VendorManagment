@@ -1,0 +1,6 @@
+{
+  "name": "Vendor & Campaign Tracker",
+  "description": "Role-based vendor and campaign tracking platform with separate login portals, vendor duplicate detection, bank account comparison, and operator campaign management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

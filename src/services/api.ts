@@ -7,7 +7,7 @@ const API_CONFIG_KEY = 'vendor_tracker_api_url';
 // Visitors don't need to configure anything; this is used automatically
 // unless a different URL is saved in their browser's local storage
 // (e.g. via the Settings page, useful if you ever redeploy and get a new URL).
-const DEFAULT_API_URL = 'https://script.google.com/macros/s/AKfycbyLEVwVez2B4bD9eg6RIo8vkgq8yCSgp13W86yRUQdFn10Ye-gmZWuq5YpeyP3aZds/exec';
+const DEFAULT_API_URL = 'https://script.google.com/macros/s/AKfycbzqooOtKU8ghkFYTrCkw8IfsKB-5fRsjc4w4LUxqbxU54-euhTjoz01rPQU5lvX5Nt1Mw/exec';
 
 export class ApiClient {
   static getApiUrl(): string {
